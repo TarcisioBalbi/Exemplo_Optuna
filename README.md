@@ -11,3 +11,4 @@ Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desen
 # Arquivos
 
 - exemplo_optuna.ipynb: Notebbok com todo o exemplo de utilização, desde a criação dos dados sintéticos, busca paramétrica e modelagem final.
+- optuna-journal-xgboost-shap.log: log do optuna com os dados da otimização. Se esse arquivo existir e for chamado no código, o estudo anterior é carregado e pode ser continuado.
